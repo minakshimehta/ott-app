@@ -1,0 +1,34 @@
+.info_Container{
+    padding: 40px;   
+}
+
+
+.Info {
+  height: 100%;
+  width: 100%;
+}
+.title_info{
+
+ text-align: left;
+ font-size: 30px;
+ font-weight: 600;
+
+}
+.card.Info{
+
+  width: 450px;
+  height: 450px;
+
+
+}
+.summary{
+
+  padding: 20px;
+
+}
+.summary_info{
+
+  font-size: 10px;
+  font-weight: 500px;
+  padding: 30px;
+}

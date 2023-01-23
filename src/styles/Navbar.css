@@ -1,0 +1,20 @@
+.submitBtn {
+  border: none;
+  outline: none;
+  font-size: 25px;
+  transform: rotate(103deg);
+  background-color: transparent;
+}
+.navBar {
+  padding: 30px;
+  background-color: aliceblue;
+  border-bottom: 2px solid black;
+
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1d1b1b !important;
+  border-bottom: 2px solid  lightblue;
+}
